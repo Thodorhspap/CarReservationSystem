@@ -1,0 +1,15 @@
+# Compiled classes
+out/
+*.class
+
+# IDE personal settings
+.idea/workspace.xml
+.idea/shelf/
+.vscode/
+
+# Demo logins are listed in the README instead
+credentials.txt
+
+# OS
+.DS_Store
+Thumbs.db
